@@ -1,6 +1,4 @@
-Here’s your **clean, professional, minimal-style README** for **Task 8: House Price Prediction Model** 👇
 
----
 
 #  House Price Prediction using Machine Learning
 
@@ -149,6 +147,3 @@ House-Price-Prediction
 
 **Sakshi Patel**
 
----
-
-e a professional GitHub profile**
