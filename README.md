@@ -94,7 +94,7 @@ Trained the following models:
 | Linear Regression | 52000.45 |
 | Random Forest     | 31000.22 |
 
-✅ **Best Model: Random Forest Regressor**
+**Best Model: Random Forest Regressor**
 
 (Random Forest achieved lower RMSE, indicating better prediction performance)
 
