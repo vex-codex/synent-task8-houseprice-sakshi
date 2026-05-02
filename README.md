@@ -2,7 +2,7 @@ Here’s your **clean, professional, minimal-style README** for **Task 8: House 
 
 ---
 
-# 🏠 House Price Prediction using Machine Learning
+#  House Price Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow?logo=pandas)
